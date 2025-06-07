@@ -2,7 +2,7 @@ package Persona;
 
 public class Persona {
 
-        String nombre;
+        String nombre;   
         String pasatiempo;
 
         public  Persona( String nombre, String pasatiempo){
